@@ -12,7 +12,7 @@
         <p align = "center">A paragraph aligned to the center</p>
         <p>using breaks ...<br>
         there will be no blank line<br>
-        between these lines of wordssssss</p>
+        between these lines of words</p>
         <!-- Last, some comments here ...you don't see them in browser-->
     </body>
 </html>
