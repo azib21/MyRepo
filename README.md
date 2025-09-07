@@ -1,1 +1,18 @@
-# MyRepo
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Example 1: Basic HTML Tags</title>
+    </head>
+    <body>
+        <h1 style = "background-color: Green;">Heading 1</h1>
+        <h2>Heading 2</h2>
+        <h3>Heading 3</h3>
+        <h4><font color = "blue">Heading 4</font></h4>
+        <p>A paragraph with <strong>bold</strong> and <em>italic</em> words</p>
+        <p align = "center">A paragraph aligned to the center</p>
+        <p>using breaks ...<br>
+        there will be no blank line<br>
+        between these lines of wordssssss</p>
+        <!-- Last, some comments here ...you don't see them in browser-->
+    </body>
+</html>
